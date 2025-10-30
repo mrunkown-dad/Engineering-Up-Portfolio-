@@ -19,7 +19,7 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 
 # First Milestone
-  ![led](https://mail.google.com/mail/u/0?ui=2&ik=7fb59c4a38&attid=0.1&permmsgid=msg-f:1847444844732710917&th=19a3714c506b8005&view=fimg&fur=ip&permmsgid=msg-f:1847444844732710917&sz=s0-l75-ft&attbid=ANGjdJ_L3t6HpG8tfsPdzm6roOX3Z8WxfnoDqm0CDZC1ZyeQS7JYZbeW2sqrj-BMROe4EF7epJCpLV5xzaCNzB1mmwIibPMWxWK09cyGpI53_Q5s-ghYPMYoVAWeul0&disp=emb&realattid=19a371468bf706991021&zw)
+ ![dog](https://mail.google.com/mail/u/0?ui=2&ik=7fb59c4a38&attid=0.1&permmsgid=msg-f:1847444844732710917&th=19a3714c506b8005&view=fimg&fur=ip&permmsgid=msg-f:1847444844732710917&sz=s0-l75-ft&attbid=ANGjdJ_L3t6HpG8tfsPdzm6roOX3Z8WxfnoDqm0CDZC1ZyeQS7JYZbeW2sqrj-BMROe4EF7epJCpLV5xzaCNzB1mmwIibPMWxWK09cyGpI53_Q5s-ghYPMYoVAWeul0&disp=emb&realattid=19a371468bf706991021&zw)
 
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail what the Arduino Uno microcontroller is and how an H-Bridge works.
 
