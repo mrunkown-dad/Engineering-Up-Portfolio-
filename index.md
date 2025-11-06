@@ -1,5 +1,5 @@
 led shoes project 
-This will be a 
+shoes that change color over time you step 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -19,7 +19,8 @@ My final milestone, I've come a long way from where I started just a couple of m
 
 
 # First Milestone
- ![dog](https://mail.google.com/mail/u/0?ui=2&ik=7fb59c4a38&attid=0.1&permmsgid=msg-f:1847444844732710917&th=19a3714c506b8005&view=fimg&fur=ip&permmsgid=msg-f:1847444844732710917&sz=s0-l75-ft&attbid=ANGjdJ8C1pEcUKRreRbx8iZVmIwh2ZNWRZq8MDbIZWzZlvtpgn_tuvOXt_aXHJ7w9N1bGTyOQjY1nKAf08AJAzKTcV39woAtFlE9DCBqpqpQYgQa6YkWPpkNOPmuj5A&disp=emb&realattid=19a371468bf706991021&zw)
+ ![dog](https://live.staticflickr.com/65535/54906513126_7586abf086_n.jpg)
+
 
 My first milestone was being able to first build the Adruino car, then, be able to code using Arduino IDE allowing the car to move. I also have enough knowledge to be able to talk about in detail what the Arduino Uno microcontroller is and how an H-Bridge works.
 
